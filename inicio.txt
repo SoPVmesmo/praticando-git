@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 PV.01
 PV.02
 PV.03
 PV.04
 PV.04,05
+=======
+novas funções adicionadas 
+>>>>>>> validacao
