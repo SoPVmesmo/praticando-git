@@ -1,2 +1,11 @@
 login
+email
+senha
+
+
+
 crair conta
+email 
+senha
+confirme sua senha 
+data de nacimento
